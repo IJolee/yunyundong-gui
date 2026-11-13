@@ -1,6 +1,6 @@
 # 云运动 GUI｜区间随机数据 · 多账号管理 · 跑步/走路双模式
 
-基于 [Zirconium233/yunForNewVersion](https://github.com/Zirconium233/yunForNewVersion) 合工大云运动跑步脚本扩展的本地 GUI 工具，适用于合工大及接口兼容的其他学校，具体兼容性以目标服务器为准。
+基于 [Zirconium233/yunForNewVersion](https://github.com/Zirconium233/yunForNewVersion) 合工大云运动跑步脚本扩展的本地 GUI 工具，面向新版 2 km 强制结束场景设计。适用于合工大及接口兼容的其他学校，具体兼容性以目标服务器为准。
 
 通过可交互窗口完成多账号配置、History 历史路线下载与导入、路线预览，以及跑步和走路模式切换。支持设置里程（默认 2 km）、配速范围、步频与节奏变化，无需每次手工修改 JSON。
 
