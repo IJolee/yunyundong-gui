@@ -100,3 +100,5 @@ git push -u origin main
 ## 来源
 
 底层命令行基于 [Zirconium233/yunForNewVersion](https://github.com/Zirconium233/yunForNewVersion)，桌面窗口、配置隔离和发布流程为扩展。原脚本及登录协议有学校和版本差异；保留原作者说明，不替上游代码重新声明许可证。
+
+有问题可以issue讨论，持续更新。
