@@ -1,4 +1,4 @@
-# 云运动脚本 GUI · Campus Motion Studio
+# 云运动 GUI｜区间随机数据 · 多账号管理 · 跑步/走路双模式
 
 基于 [Zirconium233/yunForNewVersion](https://github.com/Zirconium233/yunForNewVersion) 合工大云运动跑步脚本扩展的本地 GUI 工具，适用于合工大及接口兼容的其他学校，具体兼容性以目标服务器为准。
 
