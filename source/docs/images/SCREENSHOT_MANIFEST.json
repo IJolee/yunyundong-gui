@@ -1,0 +1,248 @@
+{
+  "method": "original_user_screenshots_cropped_opaque_redacted_and_numbered",
+  "images": [
+    {
+      "file": "01-target-photo.png",
+      "source_sha256": "4fa337f961c5d0911fa9e074daf178ab8eb8f8cf075e40e1b5878d07947a08e2",
+      "source_size": [
+        864,
+        1920
+      ],
+      "crop": [
+        0,
+        95,
+        864,
+        405
+      ],
+      "opaque_redactions": [],
+      "output_sha256": "d17f57996502b405c9364c0d9ec91d878dadc3624ba5e39674617aa54c0b1363"
+    },
+    {
+      "file": "02-start-photo.png",
+      "source_sha256": "465f31395811745bfc78f7e6600295dc0d7565786b145c64cd4323b5d61b7738",
+      "source_size": [
+        864,
+        1920
+      ],
+      "crop": [
+        0,
+        95,
+        864,
+        1430
+      ],
+      "opaque_redactions": [],
+      "output_sha256": "b23cf064649cb32b14be48d083c5aa87158573632cf5836f77a237bd3612262a"
+    },
+    {
+      "file": "03-connections-photo.png",
+      "source_sha256": "4bbbaa863c33dfb60d8abb3658292218b49577f10c9b88e87a94bb9133a07db3",
+      "source_size": [
+        864,
+        1920
+      ],
+      "crop": [
+        0,
+        95,
+        864,
+        1380
+      ],
+      "opaque_redactions": [
+        [
+          129,
+          431,
+          550,
+          483
+        ],
+        [
+          129,
+          576,
+          550,
+          628
+        ],
+        [
+          129,
+          721,
+          550,
+          773
+        ],
+        [
+          129,
+          866,
+          550,
+          918
+        ],
+        [
+          129,
+          1011,
+          550,
+          1063
+        ],
+        [
+          129,
+          1156,
+          550,
+          1208
+        ],
+        [
+          129,
+          1301,
+          550,
+          1353
+        ]
+      ],
+      "output_sha256": "ea6e21b90ad80fb136a647b415b89bbe3abe3c642716a9cb8fd21798b6f1813d"
+    },
+    {
+      "file": "04-http-photo.png",
+      "source_sha256": "b220af7fb5415a0192fc087639a475ff607aa691462cbb5a0c16e4ae993148e8",
+      "source_size": [
+        864,
+        1920
+      ],
+      "crop": [
+        0,
+        95,
+        864,
+        1230
+      ],
+      "opaque_redactions": [
+        [
+          95,
+          471,
+          864,
+          505
+        ],
+        [
+          0,
+          546,
+          864,
+          579
+        ],
+        [
+          77,
+          685,
+          864,
+          717
+        ],
+        [
+          65,
+          717,
+          864,
+          745
+        ],
+        [
+          76,
+          745,
+          864,
+          778
+        ],
+        [
+          77,
+          812,
+          864,
+          862
+        ],
+        [
+          151,
+          376,
+          435,
+          414
+        ],
+        [
+          151,
+          1185,
+          435,
+          1221
+        ],
+        [
+          6,
+          969,
+          852,
+          1144
+        ]
+      ],
+      "output_sha256": "2fa6ececcde514cdb92f92c330f546c711bbbb470eada7ec1f744f2c3b50e6ac"
+    },
+    {
+      "file": "05-account-photo.png",
+      "source_sha256": "22c66f27519922c98db331a2c4a760692a922b28f048247af7bf6ebe9802e0b5",
+      "source_size": [
+        1608,
+        966
+      ],
+      "crop": [
+        30,
+        0,
+        1585,
+        954
+      ],
+      "opaque_redactions": [],
+      "output_sha256": "940b565971463795e2ff3c1276ca1c3536264e366a2bd647cd195a66c867b476"
+    },
+    {
+      "file": "06-history-photo.png",
+      "source_sha256": "dbe10f5eb8e00368e6121c8382079a00ffeda6a7edbe579c76070036975f2488",
+      "source_size": [
+        2400,
+        1184
+      ],
+      "crop": [
+        0,
+        0,
+        2400,
+        620
+      ],
+      "opaque_redactions": [
+        [
+          43,
+          204,
+          716,
+          253
+        ],
+        [
+          43,
+          263,
+          716,
+          312
+        ],
+        [
+          43,
+          322,
+          716,
+          371
+        ],
+        [
+          43,
+          381,
+          716,
+          430
+        ],
+        [
+          43,
+          440,
+          716,
+          489
+        ],
+        [
+          43,
+          499,
+          716,
+          548
+        ],
+        [
+          43,
+          558,
+          716,
+          607
+        ],
+        [
+          43,
+          617,
+          716,
+          666
+        ]
+      ],
+      "output_sha256": "3ef584841583f964f5fde8a7c66263688a04c38522950ae67b6c340e81ac925b"
+    }
+  ]
+}
